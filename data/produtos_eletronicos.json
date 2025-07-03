@@ -1,0 +1,222 @@
+[
+  {
+    "id": "iphone_15_pro_max",
+    "nome": "iPhone 15 Pro Max",
+    "descricao": "Smartphone Apple com câmera tripla de 48MP, chip A17 Pro e tela Super Retina XDR de 6.7 polegadas",
+    "preco": 7999.99,
+    "categoria": "smartphones",
+    "marca": "Apple",
+    "avaliacao": 4.8,
+    "estoque": 25,
+    "tags": ["5g", "camera-pro", "ios", "premium", "titanio"]
+  },
+  {
+    "id": "galaxy_s24_ultra",
+    "nome": "Samsung Galaxy S24 Ultra",
+    "descricao": "Smartphone Android top de linha com S Pen, câmera de 200MP e zoom de 100x",
+    "preco": 6999.99,
+    "categoria": "smartphones",
+    "marca": "Samsung",
+    "avaliacao": 4.7,
+    "estoque": 30,
+    "tags": ["5g", "s-pen", "android", "camera-zoom", "premium"]
+  },
+  {
+    "id": "pixel_8_pro",
+    "nome": "Google Pixel 8 Pro",
+    "descricao": "Smartphone Google com IA avançada, câmera computacional e Android puro",
+    "preco": 4999.99,
+    "categoria": "smartphones",
+    "marca": "Google",
+    "avaliacao": 4.6,
+    "estoque": 20,
+    "tags": ["5g", "ia", "android", "camera-computacional", "pixel"]
+  },
+  {
+    "id": "macbook_pro_16",
+    "nome": "MacBook Pro 16 M3 Max",
+    "descricao": "Notebook profissional Apple com chip M3 Max, 32GB RAM e tela Liquid Retina XDR",
+    "preco": 15999.99,
+    "categoria": "notebooks",
+    "marca": "Apple",
+    "avaliacao": 4.9,
+    "estoque": 15,
+    "tags": ["m3-max", "profissional", "video-editing", "design", "premium"]
+  },
+  {
+    "id": "dell_xps_13",
+    "nome": "Dell XPS 13 Plus",
+    "descricao": "Ultrabook Dell com processador Intel Core i7, 16GB RAM e design premium",
+    "preco": 8999.99,
+    "categoria": "notebooks",
+    "marca": "Dell",
+    "avaliacao": 4.5,
+    "estoque": 18,
+    "tags": ["intel-i7", "ultrabook", "premium", "portatil", "business"]
+  },
+  {
+    "id": "legion_5_pro",
+    "nome": "Lenovo Legion 5 Pro",
+    "descricao": "Notebook gamer com RTX 4070, AMD Ryzen 7 e tela 165Hz para jogos",
+    "preco": 7499.99,
+    "categoria": "notebooks",
+    "marca": "Lenovo",
+    "avaliacao": 4.4,
+    "estoque": 12,
+    "tags": ["gamer", "rtx-4070", "ryzen-7", "165hz", "jogos"]
+  },
+  {
+    "id": "surface_laptop_5",
+    "nome": "Microsoft Surface Laptop 5",
+    "descricao": "Laptop Microsoft elegante com Windows 11 e design premium",
+    "preco": 6499.99,
+    "categoria": "notebooks",
+    "marca": "Microsoft",
+    "avaliacao": 4.3,
+    "estoque": 22,
+    "tags": ["windows-11", "premium", "touch-screen", "surface", "business"]
+  },
+  {
+    "id": "airpods_pro_2",
+    "nome": "Apple AirPods Pro 2ª Geração",
+    "descricao": "Fones de ouvido Apple com cancelamento de ruído ativo e áudio espacial",
+    "preco": 1899.99,
+    "categoria": "fones",
+    "marca": "Apple",
+    "avaliacao": 4.7,
+    "estoque": 50,
+    "tags": ["cancelamento-ruido", "wireless", "ios", "audio-espacial", "premium"]
+  },
+  {
+    "id": "sony_wh1000xm5",
+    "nome": "Sony WH-1000XM5",
+    "descricao": "Headphone over-ear com o melhor cancelamento de ruído do mercado",
+    "preco": 1699.99,
+    "categoria": "fones",
+    "marca": "Sony",
+    "avaliacao": 4.8,
+    "estoque": 35,
+    "tags": ["cancelamento-ruido", "over-ear", "wireless", "premium", "viagem"]
+  },
+  {
+    "id": "galaxy_buds_2_pro",
+    "nome": "Samsung Galaxy Buds2 Pro",
+    "descricao": "Fones true wireless Samsung com cancelamento de ruído e integração Galaxy",
+    "preco": 899.99,
+    "categoria": "fones",
+    "marca": "Samsung",
+    "avaliacao": 4.4,
+    "estoque": 40,
+    "tags": ["true-wireless", "cancelamento-ruido", "galaxy", "android", "compacto"]
+  },
+  {
+    "id": "ipad_pro_12_9",
+    "nome": "iPad Pro 12.9 M2",
+    "descricao": "Tablet profissional Apple com chip M2, Apple Pencil e tela Liquid Retina XDR",
+    "preco": 8999.99,
+    "categoria": "tablets",
+    "marca": "Apple",
+    "avaliacao": 4.8,
+    "estoque": 28,
+    "tags": ["m2", "apple-pencil", "profissional", "design", "criativo"]
+  },
+  {
+    "id": "galaxy_tab_s9_ultra",
+    "nome": "Samsung Galaxy Tab S9 Ultra",
+    "descricao": "Tablet Android premium com S Pen e tela AMOLED de 14.6 polegadas",
+    "preco": 7499.99,
+    "categoria": "tablets",
+    "marca": "Samsung",
+    "avaliacao": 4.6,
+    "estoque": 20,
+    "tags": ["s-pen", "amoled", "android", "premium", "produtividade"]
+  },
+  {
+    "id": "iphone_14",
+    "nome": "iPhone 14",
+    "descricao": "Smartphone Apple com chip A15 Bionic e câmera dupla melhorada",
+    "preco": 5999.99,
+    "categoria": "smartphones",
+    "marca": "Apple",
+    "avaliacao": 4.5,
+    "estoque": 45,
+    "tags": ["a15-bionic", "camera-dupla", "ios", "confiavel"]
+  },
+  {
+    "id": "galaxy_s23",
+    "nome": "Samsung Galaxy S23",
+    "descricao": "Smartphone compacto com câmera de 50MP e design premium",
+    "preco": 4499.99,
+    "categoria": "smartphones",
+    "marca": "Samsung",
+    "avaliacao": 4.4,
+    "estoque": 35,
+    "tags": ["compacto", "camera-50mp", "android", "premium"]
+  },
+  {
+    "id": "nothing_phone_2",
+    "nome": "Nothing Phone (2)",
+    "descricao": "Smartphone inovador com design transparente e luzes Glyph",
+    "preco": 3499.99,
+    "categoria": "smartphones",
+    "marca": "Nothing",
+    "avaliacao": 4.2,
+    "estoque": 25,
+    "tags": ["design-unico", "glyph", "android", "inovador", "transparente"]
+  },
+  {
+    "id": "macbook_air_m2",
+    "nome": "MacBook Air M2",
+    "descricao": "Notebook fino e leve Apple com chip M2 e excelente autonomia",
+    "preco": 9999.99,
+    "categoria": "notebooks",
+    "marca": "Apple",
+    "avaliacao": 4.7,
+    "estoque": 32,
+    "tags": ["m2", "fino", "leve", "autonomia", "estudante"]
+  },
+  {
+    "id": "hp_envy_x360",
+    "nome": "HP Envy x360",
+    "descricao": "Notebook conversível com tela touch e caneta inclusa",
+    "preco": 5999.99,
+    "categoria": "notebooks",
+    "marca": "HP",
+    "avaliacao": 4.3,
+    "estoque": 20,
+    "tags": ["conversivel", "touch-screen", "caneta", "2-em-1", "versatil"]
+  },
+  {
+    "id": "asus_rog_strix",
+    "nome": "ASUS ROG Strix G15",
+    "descricao": "Notebook gamer com RTX 4060 e design agressivo para jogos",
+    "preco": 6999.99,
+    "categoria": "notebooks",
+    "marca": "ASUS",
+    "avaliacao": 4.4,
+    "estoque": 15,
+    "tags": ["gamer", "rtx-4060", "rgb", "rog", "jogos", "agressivo"]
+  },
+  {
+    "id": "bose_qc45",
+    "nome": "Bose QuietComfort 45",
+    "descricao": "Headphone premium com cancelamento de ruído líder de mercado",
+    "preco": 1999.99,
+    "categoria": "fones",
+    "marca": "Bose",
+    "avaliacao": 4.6,
+    "estoque": 30,
+    "tags": ["cancelamento-ruido", "premium", "conforto", "bose", "viagem"]
+  },
+  {
+    "id": "jbl_quantum_800",
+    "nome": "JBL Quantum 800",
+    "descricao": "Headset gamer wireless com som surround e microfone destacável",
+    "preco": 899.99,
+    "categoria": "fones",
+    "marca": "JBL",
+    "avaliacao": 4.2,
+    "estoque": 25,
+    "tags": ["gamer", "wireless", "surround", "microfone", "jbl"]
+  }
+] 
